@@ -1066,6 +1066,26 @@ properly.
 .repoLink {
   text-align: center;
 }
+.deLink {
+  text-align: center;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+#portfolio-wrapper > div > h5 {
+  text-align: center;
+}
+
+#portfolio-wrapper > div > p {
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.skills-used {
+  text-align: center;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
 
 #portfolio-wrapper > div > a > div > div.overlay > div > h5, #portfolio-wrapper > div > a > div > div.overlay > div > p {
   color: white;

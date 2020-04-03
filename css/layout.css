@@ -1013,3 +1013,15 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
+
+#experience > div > div > div > ul > li > div.timeline-panel > div.timeline-body > p {
+  text-align: center;
+}
+
+#experience > div > div > div > ul > li > div.timeline-panel > div.timeline-heading > h4 {
+  text-align: center;
+}
+
+#experience > div > div > div > ul > li > div.timeline-panel > div.timeline-heading > h4.text-light.subheading {
+  text-align: center;
+}
