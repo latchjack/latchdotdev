@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/latchdotdev/static/css/main.5facb584.chunk.css",
-    "main.js": "/latchdotdev/static/js/main.7ab796a8.chunk.js",
-    "main.js.map": "/latchdotdev/static/js/main.7ab796a8.chunk.js.map",
+    "main.js": "/latchdotdev/static/js/main.f32eca3c.chunk.js",
+    "main.js.map": "/latchdotdev/static/js/main.f32eca3c.chunk.js.map",
     "runtime-main.js": "/latchdotdev/static/js/runtime-main.4b22dc4c.js",
     "runtime-main.js.map": "/latchdotdev/static/js/runtime-main.4b22dc4c.js.map",
     "static/js/2.354d763f.chunk.js": "/latchdotdev/static/js/2.354d763f.chunk.js",
     "static/js/2.354d763f.chunk.js.map": "/latchdotdev/static/js/2.354d763f.chunk.js.map",
     "index.html": "/latchdotdev/index.html",
-    "precache-manifest.855c9e69d19650746b5c0e81c1e43595.js": "/latchdotdev/precache-manifest.855c9e69d19650746b5c0e81c1e43595.js",
+    "precache-manifest.1267c6dc5818764a20c6a149e700e687.js": "/latchdotdev/precache-manifest.1267c6dc5818764a20c6a149e700e687.js",
     "service-worker.js": "/latchdotdev/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/latchdotdev/static/css/main.5facb584.chunk.css.map",
     "static/js/2.354d763f.chunk.js.LICENSE.txt": "/latchdotdev/static/js/2.354d763f.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.4b22dc4c.js",
     "static/js/2.354d763f.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.7ab796a8.chunk.js"
+    "static/js/main.f32eca3c.chunk.js"
   ]
 }
